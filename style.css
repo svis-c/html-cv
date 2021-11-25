@@ -151,6 +151,9 @@ H3 {
   height: 250px;
   vertical-align: top;
 }
+#box6 b {
+  vertical-align: top;
+}
 
 footer {
   margin-bottom: 50px;
